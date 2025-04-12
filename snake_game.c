@@ -7,7 +7,7 @@
 #include <time.h>
 #include <windows.h>
 #include <process.h>
-
+// wtf
 #define UP 72
 #define DOWN 80
 #define LEFT 75
